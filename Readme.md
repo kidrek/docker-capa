@@ -7,6 +7,7 @@ source: https://www.fireeye.com/blog/threat-research/2020/07/capa-automatically-
 ## Build docker
 
 ```
+git clone https://github.com/kidrek/docker-capa.git
 cd docker-capa
 docker build -t capa .
 ```
